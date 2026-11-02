@@ -1,0 +1,25 @@
+html{
+    padding: 0px;
+    margin: 0px;
+}
+.para{
+border: 1px solid blue;
+padding: 10px;
+height: 100px;
+width: 98%;
+color: red;
+}
+
+.playwrite-ar-guides-regular {
+  font-family: "Playwrite AR Guides", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#para1{
+    color: black;
+    margin-bottom: 10px;
+}
+
+
+
